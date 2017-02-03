@@ -1,4 +1,4 @@
-lass TicTacToe {
+Class TicTacToe {
     constructor() {
 this.player='x';
 this.table=[];
